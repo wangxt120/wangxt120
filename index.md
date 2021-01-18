@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # 王昕天
-## Header 2
+## 个人简介
 ### Header 3
 
 - Bulleted
