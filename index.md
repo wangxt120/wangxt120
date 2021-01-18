@@ -8,7 +8,7 @@
       <p><b>地址：浙江省宁波市江北区风华路818号宁波大学，包玉刚楼</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_5284.jpg" width="100%">      % 插入证件照代码
+      <img src="https://wangxt120.github.io/wangxt120/raw/master/file/IMG_5284.jpg" alt="portrait" style="zoom:90%"> 
     </td>
   </tr>
 </table>
