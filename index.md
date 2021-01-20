@@ -16,7 +16,7 @@
       <div class="s-component-content"><a class="s-common-button  s-font-body s-action-button" href="https://wangxt120.github.io/wangxt120/cvuoload.pdf" data-component="button" target="_blank">CV</a></div>
     </td>
     <td width="25%">
-      <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:100%"> 
+      <img src="https://wangxt120.github.io/wangxt120/por.jpg" alt="portrait" style="zoom:100%"> 
     </td>
   </tr>
 </table>
@@ -102,17 +102,17 @@
     <div id="demo">
         <div id="indemo">
             <div id="demo1">
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/16乐村淘授课.JPG"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/16怀远.JPG"  width="280" height="260"border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/IMG_1282.JPG"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/IMG_1318.JPG"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260"border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.jpg"  width="280" height="260" border="0" /></a>
             </div>
             <div id="demo2"></div>
         </div>
     </div>
     <script type="text/javascript">
-        var speed = 10; //数字越大速度越慢
+        var speed = 20; //数字越大速度越慢
         var tab = document.getElementById("demo");
         var tab1 = document.getElementById("demo1");
         var tab2 = document.getElementById("demo2");
