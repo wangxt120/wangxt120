@@ -7,13 +7,13 @@
     <td width="75%">
     <h2>
         <a name="简介" class="md-header-anchor"></a>
-        <span style="font-family:arial;">个人简介</span>
+        <span style="font-family:仿宋;">个人简介</span>
     </h2>
-      <p><b>本人现任职于宁波大学管理科学与工程系，任管理学副教授，主要从事农村电子商务方面研究。</b></p>
-      <p><b>兼任半汤商学院特约研究员，中国技术经济学会会员，加拿大Sobey商学院访问学者，《阿里商业评论》特约评论员。</b></p>
-      <p><b>邮箱：wangxintian#nbu.edu.cn</b></p>
-      <p><b>地址：浙江省宁波市江北区风华路818号宁波大学，包玉刚楼508室</b></p>
-      <div class="s-component-content"><a class="s-common-button  s-font-body s-action-button" href="https://wangxt120.github.io/wangxt120/cvuoload.pdf" data-component="button" target="_blank">CV</a></div>
+      <p><b style="font-family:仿宋;">本人现任职于宁波大学管理科学与工程系，任管理学副教授，主要从事农村电子商务方面研究。</b></p>
+      <p><b style="font-family:仿宋;">兼任半汤商学院特约研究员，中国技术经济学会会员，加拿大Sobey商学院访问学者，《阿里商业评论》特约评论员。</b></p>
+      <p><b style="font-family:仿宋;">邮箱：wangxintian#nbu.edu.cn</b></p>
+      <p><b style="font-family:仿宋;">地址：浙江省宁波市江北区风华路818号宁波大学，包玉刚楼508室</b></p>
+      <div class="s-component-content"><a class="s-common-button  s-font-body s-action-button" href="https://wangxt120.github.io/wangxt120/cvupload.pdf" data-component="button" target="_blank">CV</a></div>
     </td>
     <td width="25%">
       <img src="https://wangxt120.github.io/wangxt120/por.jpg" alt="portrait" style="zoom:100%"> 
