@@ -6,6 +6,7 @@
   <tr>
     <td width="75%">
       <p><b>本人现任职于宁波大学管理科学与工程系，任管理学副教授，主要从事农村电子商务方面研究。</b></p>
+      <p><b>兼任半汤商学院特约研究员，中国技术经济学会会员，加拿大Sobey商学院访问学者，《阿里商业评论》特约评论员。</b></p>
       <p><b>邮箱：wangxintian#nbu.edu.cn</b></p>
       <p><b>地址：浙江省宁波市江北区风华路818号宁波大学，包玉刚楼508室</b></p>
       <div class="s-component-content"><a class="s-common-button  s-font-body s-action-button" href="https://wangxt120.github.io/wangxt120/cvuoload.pdf" data-component="button" target="_blank">CV</a></div>
@@ -35,7 +36,7 @@
   <p><span>《电子商务理论与实务》,化学工业出版社,2016.</span></p>
   <h2>
     <a name="论文" class="md-header-anchor"></a>
-    <span>发表论文Papar</span>
+    <span>发表论文Paper</span>
   </h2>
   <p><span>王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
   <p><span>Xintian Wang and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J].Sustainability,2019(11)6604.</span></p>
@@ -43,7 +44,7 @@
   <p><span>王昕天,胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
   <p><span>王昕天,汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
   <p><span>王昕天.电子商务促进企业科技创新路径的实证研究[J].科技管理研究,2017(12).</span></p>
-  <p><span>王昕天,汪雷.基于文本挖掘的在线旅游热词情报分析——以携程网为例[J].情报理论与实践,2017(11).</span></p>
+  <p><span>王昕天,汪雷.基于文本挖掘的在线旅游热词情报分析--以携程网为例[J].情报理论与实践,2017(11).</span></p>
   <p><span>王昕天,胡盼.农村电子商务的典型模式及问题探析[J].农业工程技术,2016(6).</span></p>
   <p><span>汪向东,王昕天.电子商务与信息扶贫：互联网时代信息扶贫的新特点[J].西北农林科技大学学报,2015(4).</span></p>
   <p><span>王昕天,汪雷.乡村医疗卫生系统一体化管理的实践评述及政策转型探讨[J].贵州财经大学学报,2015(3).</span></p>
@@ -61,5 +62,6 @@
   <p><span>宁波市政府决策咨询课题：宁波市生产性服务业调查(J19-W1)</span></p>
   <p><span>宁波市政府决策咨询课题：宁波市进一步强化农产品地方品牌建设的对策研究(J17-B2)</span></p>
   <p><span>浙江省社科规划课题：电子商务扶贫研究：实施路径、协同机制和制度安排(17NDJC111YB)</span></p>
+  
     
     
