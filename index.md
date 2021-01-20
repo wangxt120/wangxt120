@@ -70,9 +70,15 @@
     <a name="活动" class="md-header-anchor"></a>
     <span>社会活动Activities</span>
   </h2>  
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"  height="200" width="200"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/16乐村淘授课.JPG" alt="portrait" style="zoom:50%"  height="200" width="200"> 
+  <img src="https://wangxt120.github.io/wangxt120/16怀远.JPG" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/16金华招生.JPG" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/292a48d2462f54a242d8e9ebe83ac77.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_0602.JPG" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_1282.JPG" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_1318.JPG" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_20170607_190126.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_20170613_100309.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_20171125_082825.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpgg" alt="portrait" style="zoom:50%"> 
 
