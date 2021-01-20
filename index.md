@@ -70,5 +70,9 @@
     <a name="活动" class="md-header-anchor"></a>
     <span>社会活动Activities</span>
   </h2>  
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"  height="200" width="200"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
   <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
 
