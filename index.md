@@ -1,12 +1,11 @@
 <h1>
     <a name="王昕天的主页" class="md-header-anchor"></a>
-    <span>王昕天的主页 </span>
+    <span>王昕天博士的主页 </span>
   </h1>
 <table>
   <tr>
     <td width="75%">
-      <h1>王昕天 博士</h1>
-      <p><b>本人现任职于宁波大学 管理科学与工程系，担任管理学副教授，主要从事农村电子商务方面研究。</b></p>
+      <p><b>本人现任职于宁波大学管理科学与工程系，任管理学副教授，主要从事农村电子商务方面研究。</b></p>
       <p><b>邮箱：wangxintian#nbu.edu.cn</b></p>
       <p><b>地址：浙江省宁波市江北区风华路818号宁波大学，包玉刚楼508室</b></p>
       <div class="s-component-content"><a class="s-common-button  s-font-body s-action-button" href="https://wangxt120.github.io/wangxt120/cvuoload.pdf" data-component="button" target="_blank">CV</a></div>
@@ -20,21 +19,29 @@
 <div id='write'  class=''>
   <h2>
     <a name="课程" class="md-header-anchor"></a>
-    <span>开设课程</span>
+    <span>开设课程Courses</span>
   </h2>
   <p><span>电子商务概论 必修</span></p>
   <p><span>电子商务经济学 必修 </span></p>
   <p><span>电子商务物流 必修 </span></p>
   <p><span>Python数据分析基础 必修/选修 </span></p>
   <h2>
-    <a name="科研" class="md-header-anchor"></a>
-    <span>发表论文</span>
+    <a name="教材" class="md-header-anchor"></a>
+    <span>出版教材TextBooks</span>
   </h2>
-  <p><span>王昕天，康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
-  <p><span>Xintian Wang and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J]. Sustainability,2019(11)6604.</span></p>
+  <p><span>《旅游，重塑乡村》,中国旅游出版社,2018.</span></p>
+  <p><span>《县域电商干部读本》,国家行政学院出版社,2017.</span></p>
+  <p><span>《农村电商100问》,中国人民大学出版社,2016.</span></p>
+  <p><span>《电子商务理论与实务》,化学工业出版社,2016.</span></p>
+  <h2>
+    <a name="论文" class="md-header-anchor"></a>
+    <span>发表论文Papar</span>
+  </h2>
+  <p><span>王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
+  <p><span>Xintian Wang and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J].Sustainability,2019(11)6604.</span></p>
   <p><span>王昕天,汪向东.社群化、流量分配与电商趋势:对“拼多多”现象的解读[J].中国软科学,2019(7).</span></p>
-  <p><span>王昕天，胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
-  <p><span>王昕天，汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
+  <p><span>王昕天,胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
+  <p><span>王昕天,汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
   <p><span>王昕天.电子商务促进企业科技创新路径的实证研究[J].科技管理研究,2017(12).</span></p>
   <p><span>王昕天,汪雷.基于文本挖掘的在线旅游热词情报分析——以携程网为例[J].情报理论与实践,2017(11).</span></p>
   <p><span>王昕天,胡盼.农村电子商务的典型模式及问题探析[J].农业工程技术,2016(6).</span></p>
@@ -48,7 +55,7 @@
   <p><span>王昕天.新农合补偿制度调查分析——寿光案例[J].山东财经大学学报,2012(4).</span></p>
   <h2>
     <a name="课题" class="md-header-anchor"></a>
-    <span>主持课题</span>
+    <span>主持课题Research Projects</span>
   </h2>
   <p><span>宁波市哲学社会科学规划课题：宁波市生产性服务业转型升级路径研究(G19-ZX01)</span></p>
   <p><span>宁波市政府决策咨询课题：宁波市生产性服务业调查(J19-W1)</span></p>
