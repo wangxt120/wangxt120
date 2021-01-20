@@ -135,3 +135,6 @@
         };
     </script>
 </body>
+<footer class="site-footer">  
+        <span class="site-footer-credits">© Albert Haoran LEI</a></span>
+</footer>
