@@ -136,5 +136,5 @@
     </script>
 </body>
 <footer class="site-footer">  
-        <span class="site-footer-credits">©powered by Xintian WANG 2021</span>
+        <span class="site-footer-credits" style="font-family:arial;color:red;font-size:20px;">©powered by Xintian WANG 2021</span>
 </footer>
