@@ -5,6 +5,10 @@
 <table>
   <tr>
     <td width="75%">
+    <h2>
+        <a name="课程" class="md-header-anchor"></a>
+        <span>开设课程Courses</span>
+    </h2>
       <p><b>本人现任职于宁波大学管理科学与工程系，任管理学副教授，主要从事农村电子商务方面研究。</b></p>
       <p><b>兼任半汤商学院特约研究员，中国技术经济学会会员，加拿大Sobey商学院访问学者，《阿里商业评论》特约评论员。</b></p>
       <p><b>邮箱：wangxintian#nbu.edu.cn</b></p>
