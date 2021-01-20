@@ -102,17 +102,19 @@
     <div id="demo">
         <div id="indemo">
             <div id="demo1">
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260"border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.JPG"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/por.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/1.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/2.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/3.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/4.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/5.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/6.jpg"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/7.jpg"  width="280" height="260" border="0" /></a>
             </div>
             <div id="demo2"></div>
         </div>
     </div>
     <script type="text/javascript">
-        var speed = 20; //数字越大速度越慢
+        var speed = 20; 
         var tab = document.getElementById("demo");
         var tab1 = document.getElementById("demo1");
         var tab2 = document.getElementById("demo2");
