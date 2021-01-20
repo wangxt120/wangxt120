@@ -7,7 +7,7 @@
     <td width="75%">
     <h2>
         <a name="简介" class="md-header-anchor"></a>
-        <span style="font-family:仿宋;">个人简介</span>
+        <span>个人简介</span>
     </h2>
       <p><b style="font-family:仿宋;font-size:25px;">本人现任职于宁波大学管理科学与工程系，任管理学副教授，主要从事农村电子商务方面研究。</b></p>
       <p><b style="font-family:仿宋;font-size:25px;">兼任半汤商学院特约研究员，中国技术经济学会会员，加拿大Sobey商学院访问学者，《阿里商业评论》特约评论员。</b></p>
@@ -24,7 +24,7 @@
 <div id='write'  class=''>
   <h2>
     <a name="课程" class="md-header-anchor"></a>
-    <span>开设课程Courses</span>
+    <span>开设课程 Courses</span>
   </h2>
   <p><span>电子商务概论 必修</span></p>
   <p><span>电子商务经济学 必修 </span></p>
@@ -40,7 +40,7 @@
   <p><span>《电子商务理论与实务》,化学工业出版社,2016.</span></p>
   <h2>
     <a name="论文" class="md-header-anchor"></a>
-    <span>发表论文Paper</span>
+    <span>发表论文 Paper</span>
   </h2>
   <p><span>王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
   <p><span>Xintian Wang and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J].Sustainability,2019(11)6604.</span></p>
@@ -60,7 +60,7 @@
   <p><span>王昕天.新农合补偿制度调查分析——寿光案例[J].山东财经大学学报,2012(4).</span></p>
   <h2>
     <a name="课题" class="md-header-anchor"></a>
-    <span>主持课题Research Projects</span>
+    <span>主持课题 Research Projects</span>
   </h2>
   <p><span>宁波市哲学社会科学规划课题：宁波市生产性服务业转型升级路径研究(G19-ZX01)</span></p>
   <p><span>宁波市政府决策咨询课题：宁波市生产性服务业调查(J19-W1)</span></p>
@@ -68,7 +68,7 @@
   <p><span>浙江省社科规划课题：电子商务扶贫研究：实施路径、协同机制和制度安排(17NDJC111YB)</span></p>
   <h2>
     <a name="活动" class="md-header-anchor"></a>
-    <span>社会活动Activities</span>
+    <span>社会活动 Activities</span>
   </h2>  
 <style type="text/css">
 <!--
