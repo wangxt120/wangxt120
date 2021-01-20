@@ -32,7 +32,7 @@
   <p><span>Python数据分析基础 必修/选修 </span></p>
   <h2>
     <a name="教材" class="md-header-anchor"></a>
-    <span>出版教材TextBooks</span>
+    <span>出版教材 TextBooks</span>
   </h2>
   <p><span>《旅游，重塑乡村》,中国旅游出版社,2018.</span></p>
   <p><span>《县域电商干部读本》,国家行政学院出版社,2017.</span></p>
