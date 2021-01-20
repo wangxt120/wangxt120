@@ -80,5 +80,72 @@
   <img src="https://wangxt120.github.io/wangxt120/IMG_20170607_190126.jpg" alt="portrait" style="zoom:50%"> 
   <img src="https://wangxt120.github.io/wangxt120/IMG_20170613_100309.jpg" alt="portrait" style="zoom:50%"> 
   <img src="https://wangxt120.github.io/wangxt120/IMG_20171125_082825.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpgg" alt="portrait" style="zoom:50%"> 
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
+<style type="text/css">
+<!--
+#demo {
+    background: #FFF;
+    overflow: hidden;
+    border: 1px dashed #CCC;
+    width: 100%;
+}
 
+#demo img {
+    border: 3px solid #F2F2F2;
+}
+
+#indemo {
+    float: left;
+    width: 800%;
+}
+
+#demo1 {
+    float: left;
+}
+
+#demo2 {
+    float: left;
+}
+-->
+</style>
+
+<body>
+    <center>
+        <h3 style="color: black">欢迎来到川庆钻探工程有限公司地球物理勘探公司山地数字地震队管理系统</h3>
+    </center>
+    <!-- <img alt="川庆物探山地地形图" src="${ctx}/res/images/wtimage/moutain.jpg"
+        width="100%" height="650px" /> -->
+    <div id="demo">
+        <div id="indemo">
+            <div id="demo1">
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/16乐村淘授课.JPG"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/16怀远.JPG"  width="280" height="260"border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/IMG_1282.JPG"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/IMG_1318.JPG"  width="280" height="260" border="0" /></a>
+                <a href="#"><img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg"  width="280" height="260" border="0" /></a>
+            </div>
+            <div id="demo2"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var speed = 10; //数字越大速度越慢
+        var tab = document.getElementById("demo");
+        var tab1 = document.getElementById("demo1");
+        var tab2 = document.getElementById("demo2");
+        tab2.innerHTML = tab1.innerHTML;
+        function Marquee() {
+            if (tab2.offsetWidth - tab.scrollLeft <= 0)
+                tab.scrollLeft -= tab1.offsetWidth;
+            else {
+                tab.scrollLeft++;
+            }
+        }
+        var MyMar = setInterval(Marquee, speed);
+        tab.onmouseover = function() {
+            clearInterval(MyMar)
+        };
+        tab.onmouseout = function() {
+            MyMar = setInterval(Marquee, speed)
+        };
+    </script>
+</body>
