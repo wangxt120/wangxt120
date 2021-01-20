@@ -136,5 +136,5 @@
     </script>
 </body>
 <footer class="site-footer">  
-        <span class="site-footer-credits">© Albert Haoran LEI</a></span>
+        <span class="site-footer-credits">©powered by Xintiann WANG 2021</span>
 </footer>
