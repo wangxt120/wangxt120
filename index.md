@@ -66,48 +66,9 @@
   <p><span>宁波市政府决策咨询课题：宁波市生产性服务业调查(J19-W1)</span></p>
   <p><span>宁波市政府决策咨询课题：宁波市进一步强化农产品地方品牌建设的对策研究(J17-B2)</span></p>
   <p><span>浙江省社科规划课题：电子商务扶贫研究：实施路径、协同机制和制度安排(17NDJC111YB)</span></p>
-  
-    
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-    <meta charset="UTF-8">  
-    <title>Document</title>  
-    <script type="text/javascript" src="http://libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>  
-    <script type="text/javascript">  
-    $(function(){  
-        $(".file").change(function(){  
-            var fileImg = $(".fileImg");  
-            var explorer = navigator.userAgent;  
-            var imgSrc = $(this)[0].value;  
-            if (explorer.indexOf('MSIE') >= 0) {  
-                if (!/\.(jpg|jpeg|png|JPG|PNG|JPEG)$/.test(imgSrc)) {  
-                    imgSrc = "";  
-                    fileImg.attr("src","/img/default.png");  
-                    return false;  
-                }else{  
-                    fileImg.attr("src",imgSrc);  
-                }  
-            }else{  
-                if (!/\.(jpg|jpeg|png|JPG|PNG|JPEG)$/.test(imgSrc)) {  
-                    imgSrc = "";  
-                    fileImg.attr("src","/img/default.png");  
-                    return false;  
-                }else{  
-                    var file = $(this)[0].files[0];  
-                    var url = URL.createObjectURL(file);  
-                    fileImg.attr("src",url);  
-                }  
-            }  
-        })  
-    })  
-    </script>  
-</head>  
-<body>  
-    <form enctype="multipart/form-date" method="post">  
-        <input type="file" class="file">  
-        <input type="submit" class="sub">  
-    </form>  
-    <img src="" class="fileImg">  
-</body>  
-</html>      
+  <h2>
+    <a name="活动" class="md-header-anchor"></a>
+    <span>社会活动Activities</span>
+  </h2>  
+  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:100%"> 
+
