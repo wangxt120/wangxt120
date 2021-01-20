@@ -70,17 +70,6 @@
     <a name="活动" class="md-header-anchor"></a>
     <span>社会活动Activities</span>
   </h2>  
-  <img src="https://wangxt120.github.io/wangxt120/16乐村淘授课.JPG" alt="portrait" style="zoom:50%"  height="200" width="200"> 
-  <img src="https://wangxt120.github.io/wangxt120/16怀远.JPG" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/16金华招生.JPG" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/292a48d2462f54a242d8e9ebe83ac77.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_0602.JPG" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_1282.JPG" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_1318.JPG" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_20170607_190126.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_20170613_100309.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_20171125_082825.jpg" alt="portrait" style="zoom:50%"> 
-  <img src="https://wangxt120.github.io/wangxt120/IMG_5284.jpg" alt="portrait" style="zoom:50%"> 
 <style type="text/css">
 <!--
 #demo {
@@ -110,11 +99,6 @@
 </style>
 
 <body>
-    <center>
-        <h3 style="color: black">欢迎来到川庆钻探工程有限公司地球物理勘探公司山地数字地震队管理系统</h3>
-    </center>
-    <!-- <img alt="川庆物探山地地形图" src="${ctx}/res/images/wtimage/moutain.jpg"
-        width="100%" height="650px" /> -->
     <div id="demo">
         <div id="indemo">
             <div id="demo1">
