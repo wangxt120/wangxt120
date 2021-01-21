@@ -135,10 +135,7 @@
         };
     </script>
 </body>
-<footer class="site-footer">  
-        <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2021</center>
-</footer>
-
+    
 <script language=JavaScript>
 <!--Karso copyright
 var caution = false ;
@@ -190,3 +187,7 @@ setCookie("counter", visits, now)
 document.write("您是第" + visits + "访问本主页的！")
 // -->
 </script>
+
+<footer class="site-footer">  
+        <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2021</center>
+</footer>
