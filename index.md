@@ -184,7 +184,7 @@ visits = 1
 else
 visits = parseInt(visits) + 1
 setCookie("counter", visits, now)
-document.write("您是第" + visits + "访问本主页的！")
+document.write("您是本网站的第" + visits + "位访问者。")
 // -->
 </script>
 
