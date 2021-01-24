@@ -43,7 +43,8 @@
     <span>发表论文 Paper</span>
   </h2>
   <p><span>王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
-  <p><span>Xintian Wang and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J].Sustainability,2019(11)6604.</span></p>
+  <p><span>Xintian Wang* and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J].Sustainability,2019(11)6604.</span></p>
+  <p><span>Xintian Wang* and Xiangdong Wang.Understanding the Transformation from E-commerce to S-commerce: Evidence, Path and Inspiration from China[C].Wuhan:The Proceedings of Eighteenth Wuhan International Conference on E-Business,2019,527-535.</span></p>
   <p><span>王昕天,汪向东.社群化、流量分配与电商趋势:对“拼多多”现象的解读[J].中国软科学,2019(7).</span></p>
   <p><span>王昕天,胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
   <p><span>王昕天,汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
@@ -135,59 +136,6 @@
         };
     </script>
 </body>
-    
-<script language=JavaScript>
-<!--Karso copyright
-var caution = false ;
-function setCookie(name, value, expires, path, domain, secure) {
-var curCookie = name + "=" + escape(value) +
-((expires) ? "; expires=" + expires.toGMTString() : "") +
-((path) ? "; path=" + path : "") +
-((domain) ? "; domain=" + domain : "") +
-((secure) ? "; secure" : "")
-if (!caution || (name + "=" + escape(value)).length <= 4000)
-document.cookie = curCookie
-else
-if (confirm("Cookie exceeds 4KB and will be cut!"))
-document.cookie = curCookie
-}
-function getCookie(name) {
-var prefix = name + "="
-var cookieStartIndex = document.cookie.indexOf(prefix)
-if (cookieStartIndex == -1)
-return null
-var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
-if (cookieEndIndex == -1)
-cookieEndIndex = document.cookie.length
-return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
-}
-function deleteCookie(name, path, domain) {
-if (getCookie(name)) {
-document.cookie = name + "=" +
-((path) ? "; path=" + path : "") +
-((domain) ? "; domain=" + domain : "") +
-"; expires=Thu, 01-Jan-70 00:00:01 GMT"
-}
-}
-function fixDate(date) {
-var base = new Date(0)
-var skew = base.getTime()
-if (skew > 0)
-date.setTime(date.getTime() - skew)
-}
-var now = new Date()
-fixDate(now)
-now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
-var visits = getCookie("counter")
-if (!visits)
-visits = 1
-else
-visits = parseInt(visits) + 1
-setCookie("counter", visits, now)
-document.write("您是本网站的第" + visits + "位访问者。")
-// -->
-</script>
-
 <footer class="site-footer">  
         <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2021</center>
 </footer>
