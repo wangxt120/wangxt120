@@ -1,7 +1,8 @@
 <h1>
     <a name="王昕天的主页" class="md-header-anchor"></a>
     <span>王昕天博士的主页 </span>
-  </h1>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</h1>
 <table>
   <tr>
     <td width="75%">
@@ -136,6 +137,7 @@
         };
     </script>
 </body>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 <footer class="site-footer">  
         <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2021</center>
 </footer>
