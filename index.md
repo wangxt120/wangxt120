@@ -137,7 +137,7 @@
         };
     </script>
 </body>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_site_pv">您是本站第<span id="busuanzi_value_site_pv"></span>位访客。</span>
 <footer class="site-footer">  
         <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2021</center>
 </footer>
