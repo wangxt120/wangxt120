@@ -10,7 +10,7 @@
         <a name="简介" class="md-header-anchor"></a>
         <span>个人简介</span>
     </h2>
-      <p><b style="font-family:仿宋;font-size:25px;">本人现就职于宁波大学管理科学与工程系，任管理学副教授，从事农村电子商务方面研究。</b></p>
+      <p><b style="font-family:仿宋;font-size:25px;">本人现就职于宁波大学管理科学与工程系，任管理学副教授，从事农村电子商务方面、农业数字化转型等方面研究。</b></p>
       <p><b style="font-family:仿宋;font-size:25px;">兼任半汤商学院特约研究员，中国技术经济学会会员，加拿大Sobey商学院访问学者，《阿里商业评论》特约评论员。</b></p>
       <p><b style="font-family:仿宋;font-size:25px;">邮箱：wangxintian@nbu.edu.cn</b></p>
       <p><b style="font-family:仿宋;font-size:25px;">地址：浙江省宁波市江北区风华路818号，宁波大学，曹光彪楼312室</b></p>
