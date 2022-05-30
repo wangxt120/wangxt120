@@ -43,13 +43,12 @@
     <a name="论文" class="md-header-anchor"></a>
     <span>发表论文 Paper</span>
   </h2>
+  <p><span>Xintian Wang*, Hai Wang and CaiMing Zhang.A Literature Review of Social Commerce Research from a Systems Thinking Perspective[J].System,2022,10,56.</span>     <p><span>张才明,王昕天.农村电子商务对我国农业技术进步影响路径研究[J].科技智囊,2020(5).</span></p>
   <p><span>王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
-  <p><span>Xintian Wang* and Hai Wang.A Study on Sustaining Corporate Innovation with E-Commerce in China[J].Sustainability,2019(11)6604.</span></p>
   <p><span>Xintian Wang* and Xiangdong Wang.Understanding the Transformation from E-commerce to S-commerce: Evidence, Path and Inspiration from China[C].Wuhan:The Proceedings of Eighteenth Wuhan International Conference on E-Business,2019,527-535.</span></p>
   <p><span>王昕天,汪向东.社群化、流量分配与电商趋势:对“拼多多”现象的解读[J].中国软科学,2019(7).</span></p>
   <p><span>王昕天,胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
   <p><span>王昕天,汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
-  <p><span>王昕天.电子商务促进企业科技创新路径的实证研究[J].科技管理研究,2017(12).</span></p>
   <p><span>王昕天,汪雷.基于文本挖掘的在线旅游热词情报分析--以携程网为例[J].情报理论与实践,2017(11).</span></p>
   <p><span>王昕天,胡盼.农村电子商务的典型模式及问题探析[J].农业工程技术,2016(6).</span></p>
   <p><span>汪向东,王昕天.电子商务与信息扶贫：互联网时代信息扶贫的新特点[J].西北农林科技大学学报,2015(4).</span></p>
