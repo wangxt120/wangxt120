@@ -42,7 +42,13 @@
     <a name="论文" class="md-header-anchor"></a>
     <span>发表论文 Paper</span>
   </h2>
-  <p><span>Xintian Wang*, Hai Wang and CaiMing Zhang.A Literature Review of Social Commerce Research from a Systems Thinking Perspective[J].System,2022,10,56.</span>     <p><span>张才明,王昕天.农村电子商务对我国农业技术进步影响路径研究[J].科技智囊,2020(5).</span></p>
+<p><span>王昕天，荆林波.电子商务驱动下的传统商贸业转型路径——以安徽怀远为例[J].延安大学学报，2023(10).</span>
+<p><span>胡畔，王昕天.高职家庭经济困难学生学业成就影响因素及传导路径的SEM实证研究[J].高校辅导员学刊，2023(7).</span>
+<p><span>王昕天，胡畔，荆林波.农产品社交电商：意义、作用与建议[J].江苏商论，2023(4).</span>
+ <p><span>王昕天，荆林波.疫情防控中农产品流通堵塞原因、短期应对与长期设想[J].中国流通经济，2022(12).</span>
+<p><span>王昕天，荆林波.二元市场、电子商务与商贸流通研究——基于分位数回归的实证分析[J].价格理论与实践，2022(11).</span>
+ <p><span>Xintian Wang*, Hai Wang and CaiMing Zhang.A Literature Review of Social Commerce Research from a Systems Thinking Perspective[J].System,2022,10,56.</span>
+  <p><span>张才明,王昕天.农村电子商务对我国农业技术进步影响路径研究[J].科技智囊,2020(5).</span></p>
   <p><span>王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
   <p><span>Xintian Wang* and Xiangdong Wang.Understanding the Transformation from E-commerce to S-commerce: Evidence, Path and Inspiration from China[C].Wuhan:The Proceedings of Eighteenth Wuhan International Conference on E-Business,2019,527-535.</span></p>
   <p><span>王昕天,汪向东.社群化、流量分配与电商趋势:对“拼多多”现象的解读[J].中国软科学,2019(7).</span></p>
@@ -62,6 +68,9 @@
     <a name="课题" class="md-header-anchor"></a>
     <span>主持课题 Research Projects</span>
   </h2>
+  <p><span>国家社科基金一般项目：电商驱动农业产业链数字化的机制、效果与政策研究(23BJY173)</span></p>
+  <p><span>宁波哲学社会科学重点项目：八八战略带动下宁波高水平对外开放研究(G2023-5-14)</span></p>
+  <p><span>农业农村部农村经济研究中心委托课题：疫情防控期间我国农产品应急流通体系建设研究(NYK202206034)</span></p>
   <p><span>宁波市哲学社会科学规划课题：宁波市生产性服务业转型升级路径研究(G19-ZX01)</span></p>
   <p><span>宁波市政府决策咨询课题：宁波市生产性服务业调查(J19-W1)</span></p>
   <p><span>宁波市政府决策咨询课题：宁波市进一步强化农产品地方品牌建设的对策研究(J17-B2)</span></p>
