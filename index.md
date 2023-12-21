@@ -45,27 +45,27 @@
 <p><span>1.王昕天,荆林波.电子商务驱动下的传统商贸业转型路径——以安徽怀远为例[J].延安大学学报，2023(10).</span>
 <p><span>2.胡畔,王昕天.高职家庭经济困难学生学业成就影响因素及传导路径的SEM实证研究[J].高校辅导员学刊，2023(7).</span>
 <p><span>3.王昕天,胡畔,荆林波.农产品社交电商：意义、作用与建议[J].江苏商论，2023(4).</span>
-<p><span>Zhangwei Feng,Deyan Yang and Xintian Wang.“Internet+ Recycling” Platform Participation Selection Strategy
+<p><span>4.Zhangwei Feng,Deyan Yang and Xintian Wang.“Internet+ Recycling” Platform Participation Selection Strategy
 in a Two-Echelon Remanufacturing Closed-Loop Supply Chain[J].International Journal of Environmental Research and Public Health 2023, 20, 3999.</span>
- <p><span>4.王昕天,荆林波.疫情防控中农产品流通堵塞原因、短期应对与长期设想[J].中国流通经济，2022(12).</span>
-<p><span>5.王昕天,荆林波.二元市场、电子商务与商贸流通研究——基于分位数回归的实证分析[J].价格理论与实践，2022(11).</span>
- <p><span>6.Xintian Wang*, Hai Wang and CaiMing Zhang.A Literature Review of Social Commerce Research from a Systems Thinking Perspective[J].System,2022,10,56.</span>
-  <p><span>7.张才明,王昕天.农村电子商务对我国农业技术进步影响路径研究[J].科技智囊,2020(5).</span></p>
-  <p><span>8.王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
-  <p><span>9.Xintian Wang* and Xiangdong Wang.Understanding the Transformation from E-commerce to S-commerce: Evidence, Path and Inspiration from China[C].Wuhan:The Proceedings of Eighteenth Wuhan International Conference on E-Business,2019,527-535.</span></p>
-  <p><span>10.王昕天,汪向东.社群化、流量分配与电商趋势:对“拼多多”现象的解读[J].中国软科学,2019(7).</span></p>
-  <p><span>11.王昕天,胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
-  <p><span>12.王昕天,汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
-  <p><span>13王昕天,汪雷.基于文本挖掘的在线旅游热词情报分析--以携程网为例[J].情报理论与实践,2017(11).</span></p>
-  <p><span>14.王昕天,胡盼.农村电子商务的典型模式及问题探析[J].农业工程技术,2016(6).</span></p>
-  <p><span>15.汪向东,王昕天.电子商务与信息扶贫：互联网时代信息扶贫的新特点[J].西北农林科技大学学报,2015(4).</span></p>
-  <p><span>16王昕天,汪雷.乡村医疗卫生系统一体化管理的实践评述及政策转型探讨[J].贵州财经大学学报,2015(3).</span></p>
-  <p><span>17.王昕天.物流绩效影响因素的作用机理——基于国际截面数据的SEM分析[J].技术经济,2015(1).</span></p>
-  <p><span>18.王昕天,汪向东.电子商务背景下物流信息化的新趋势——基于信息化物流的研究框架[J].中国流通经济,2015(1).</span></p>
-  <p><span>19.王昕天,汪向东.信息化物流的转型：海尔、京东和阿里巴巴的物流实践[EB/OL].阿里商业评论,2014-09-01.</span></p>
-  <p><span>20.王昕天.信誉的作用——基于网上交易数据的研究[A].第九届复杂网络会议论文集，北京：科学出版社,2014.</span></p>
-  <p><span>21.王昕天.物流信息化的发展趋势——中远案例[J].信息与电脑，2014(9).</span></p>
-  <p><span>22.王昕天.新农合补偿制度调查分析——寿光案例[J].山东财经大学学报,2012(4).</span></p>
+ <p><span>5.王昕天,荆林波.疫情防控中农产品流通堵塞原因、短期应对与长期设想[J].中国流通经济，2022(12).</span>
+<p><span>6.王昕天,荆林波.二元市场、电子商务与商贸流通研究——基于分位数回归的实证分析[J].价格理论与实践，2022(11).</span>
+ <p><span>7.Xintian Wang*, Hai Wang and CaiMing Zhang.A Literature Review of Social Commerce Research from a Systems Thinking Perspective[J].System,2022,10,56.</span>
+  <p><span>8.张才明,王昕天.农村电子商务对我国农业技术进步影响路径研究[J].科技智囊,2020(5).</span></p>
+  <p><span>9.王昕天,康春鹏和汪向东.电商扶贫背景下贫困主体获得感影响因素研究[J].农业经济问题,2020(3).</span></p>
+  <p><span>10.Xintian Wang* and Xiangdong Wang.Understanding the Transformation from E-commerce to S-commerce: Evidence, Path and Inspiration from China[C].Wuhan:The Proceedings of Eighteenth Wuhan International Conference on E-Business,2019,527-535.</span></p>
+  <p><span>11.王昕天,汪向东.社群化、流量分配与电商趋势:对“拼多多”现象的解读[J].中国软科学,2019(7).</span></p>
+  <p><span>12.王昕天,胡盼.电商扶贫的最新进展:理论、实践与政策建议[J].现代营销,2019(4).</span></p>
+  <p><span>13.王昕天,汪雷.我国情报学领域云计算研究发展动态分析[J].情报理论与实践,2018(6).</span></p>
+  <p><span>14.王昕天,汪雷.基于文本挖掘的在线旅游热词情报分析--以携程网为例[J].情报理论与实践,2017(11).</span></p>
+  <p><span>15.王昕天,胡盼.农村电子商务的典型模式及问题探析[J].农业工程技术,2016(6).</span></p>
+  <p><span>16.汪向东,王昕天.电子商务与信息扶贫：互联网时代信息扶贫的新特点[J].西北农林科技大学学报,2015(4).</span></p>
+  <p><span>17.王昕天,汪雷.乡村医疗卫生系统一体化管理的实践评述及政策转型探讨[J].贵州财经大学学报,2015(3).</span></p>
+  <p><span>18.王昕天.物流绩效影响因素的作用机理——基于国际截面数据的SEM分析[J].技术经济,2015(1).</span></p>
+  <p><span>19.王昕天,汪向东.电子商务背景下物流信息化的新趋势——基于信息化物流的研究框架[J].中国流通经济,2015(1).</span></p>
+  <p><span>20.王昕天,汪向东.信息化物流的转型：海尔、京东和阿里巴巴的物流实践[EB/OL].阿里商业评论,2014-09-01.</span></p>
+  <p><span>21.王昕天.信誉的作用——基于网上交易数据的研究[A].第九届复杂网络会议论文集，北京：科学出版社,2014.</span></p>
+  <p><span>22.王昕天.物流信息化的发展趋势——中远案例[J].信息与电脑，2014(9).</span></p>
+  <p><span>23.王昕天.新农合补偿制度调查分析——寿光案例[J].山东财经大学学报,2012(4).</span></p>
   <h2>
     <a name="课题" class="md-header-anchor"></a>
     <span>主持课题 Research Projects</span>
