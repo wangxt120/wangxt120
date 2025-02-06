@@ -2,7 +2,7 @@
     <a name="王昕天的主页" class="md-header-anchor"></a>
     <span>王昕天博士的主页 </span>
 </h1>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 <table>
   <tr>
     <td width="75%">
