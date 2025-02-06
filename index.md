@@ -152,5 +152,6 @@ in a Two-Echelon Remanufacturing Closed-Loop Supply Chain[J].International Journ
 </body>
 <span id="busuanzi_container_site_pv" style="font-family:arial;color:grey;font-size:10px;">您是本站第<span id="busuanzi_value_site_pv"></span>位访客。</span>
 <footer class="site-footer">  
-        <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2024</center>
+<center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2024</center>
+<center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">版权所有，未经同意，禁止转载Copyright All rights reserved</center>
 </footer>
