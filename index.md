@@ -80,7 +80,6 @@ in a Two-Echelon Remanufacturing Closed-Loop Supply Chain[J].International Journ
   <p><span>7.农业农村部农村经济研究中心委托课题：疫情防控期间我国农产品应急流通体系建设研究(NYK202206034)</span></p>
   <p><span>8.宁波市发改委委托项目：中华民族现代文明视域下宁波文化定位及“十五五”突破路径研究(2024SWW070)</span></p>
 
-<span id="busuanzi_container_site_pv" style="font-family:arial;color:grey;font-size:10px;">您是本站第<span id="busuanzi_value_site_pv"></span>位访客。</span>
 <footer class="site-footer">  
 <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2024</center>
 <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">版权所有，未经同意，禁止转载Copyright All rights reserved</center>
