@@ -79,77 +79,7 @@ in a Two-Echelon Remanufacturing Closed-Loop Supply Chain[J].International Journ
   <p><span>6.宁波市政府决策咨询课题：宁波市进一步强化农产品地方品牌建设的对策研究(J17-B2)</span></p>
   <p><span>7.农业农村部农村经济研究中心委托课题：疫情防控期间我国农产品应急流通体系建设研究(NYK202206034)</span></p>
   <p><span>8.宁波市发改委委托项目：中华民族现代文明视域下宁波文化定位及“十五五”突破路径研究(2024SWW070)</span></p>
-  
-  <h2>
-    <a name="活动" class="md-header-anchor"></a>
-    <span>社会活动 Activities</span>
-  </h2>  
-<style type="text/css">
-<!--
-#demo {
-    background: #FFF;
-    overflow: hidden;
-    border: 1px dashed #CCC;
-    width: 100%;
-}
 
-#demo img {
-    border: 3px solid #F2F2F2;
-}
-
-#indemo {
-    float: left;
-    width: 800%;
-}
-
-#demo1 {
-    float: left;
-}
-
-#demo2 {
-    float: left;
-}
--->
-</style>
-
-<body>
-    <div id="demo">
-        <div id="indemo">
-            <div id="demo1">
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/1.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/2.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/3.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/4.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/5.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/6.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/7.jpg"  width="280" height="260" border="0" /></a>
-                <a href="#"><img src="https://wangxt120.github.io/wangxt120/8.jpg"  width="280" height="260" border="0" /></a>
-            </div>
-            <div id="demo2"></div>
-        </div>
-    </div>
-    <script type="text/javascript">
-        var speed = 20; 
-        var tab = document.getElementById("demo");
-        var tab1 = document.getElementById("demo1");
-        var tab2 = document.getElementById("demo2");
-        tab2.innerHTML = tab1.innerHTML;
-        function Marquee() {
-            if (tab2.offsetWidth - tab.scrollLeft <= 0)
-                tab.scrollLeft -= tab1.offsetWidth;
-            else {
-                tab.scrollLeft++;
-            }
-        }
-        var MyMar = setInterval(Marquee, speed);
-        tab.onmouseover = function() {
-            clearInterval(MyMar)
-        };
-        tab.onmouseout = function() {
-            MyMar = setInterval(Marquee, speed)
-        };
-    </script>
-</body>
 <span id="busuanzi_container_site_pv" style="font-family:arial;color:grey;font-size:10px;">您是本站第<span id="busuanzi_value_site_pv"></span>位访客。</span>
 <footer class="site-footer">  
 <center class="site-footer-credits" style="font-family:arial;color:grey;font-size:10px;">©Powered by Xintian WANG 2024</center>
